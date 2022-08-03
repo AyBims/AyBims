@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Wed development and Cloud infrastructure projects**
+- 👯 I’m looking to collaborate on **Web development and Cloud infrastructure projects**
 
 - 💬 Ask me about **C and AWS services**
 
