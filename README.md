@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayomide👋</h1>
 <h3 align="center">I'm a DevOps Engineer. I am passionate about Cloud engineering, Cloud Networks, DevOps culture And Infrastructure Automation.</h3>
 
-<p align="left"> <a href="https://twitter.com/aybims" target="blank"><img src="https://img.shields.io/twitter/follow/aybims?logo=twitter&style=for-the-badge" alt="aybims" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aybimss" target="blank"><img src="https://img.shields.io/twitter/follow/aybims?logo=twitter&style=for-the-badge" alt="aybims" /></a> </p>
 
 - 🔭 I’m currently working on [a 90 days of Devops Challenge on Linkedin](https://www.linkedin.com/in/ayomide-adeshina-opeyemi/)
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aybims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aybims" height="30" width="40" /></a>
-<a href="https://twitter.com/aybims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aybims" height="30" width="40" /></a>
+<a href="https://twitter.com/aybimss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aybims" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayomide-adeshina-opeyemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayomide-adeshina-opeyemi" height="30" width="40" /></a>
 </p>
 
